@@ -17,7 +17,7 @@ td {
 }
 
 th {
-  background-color: #f2f2f2;
+  background-color: #3978ab;
 }
 td:last-child {
   width: 100px;
@@ -31,7 +31,7 @@ button {
 }
 
 button:hover {
-  background-color: #45a049;
+  background-color: #3a5c0a;
 }
 a {
   position: fixed;
